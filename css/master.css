@@ -28,4 +28,13 @@ li {
 
 div img {
     max-width: 100%;
+    height: auto;
+}
+
+#pa-google-logo {
+    width: 15%;
+}
+
+.form-container {
+    flex-direction: column;
 }
