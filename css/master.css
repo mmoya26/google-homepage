@@ -97,4 +97,14 @@ footer a {
     background-size: cover;
     border-radius: 50%;
     background-position-x: center;
+    cursor: pointer;
+}
+
+#navbar-menu-icon {
+    width: 18px;
+    height: 20px;
+    background-image: url("../images/th-solid.png");
+    background-size: cover;
+    background-position-x: center;
+    cursor: pointer;
 }
