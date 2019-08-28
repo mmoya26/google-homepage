@@ -37,4 +37,6 @@ div img {
 
 .form-container {
     flex-direction: column;
+    margin: 200px auto;
+    align-items: center;
 }
