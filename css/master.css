@@ -25,3 +25,7 @@ li {
     opacity: 0.75;
     font-size: 0.855rem;
 }
+
+div img {
+    max-width: 100%;
+}
