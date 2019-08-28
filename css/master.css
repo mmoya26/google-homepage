@@ -26,6 +26,10 @@ li {
     font-size: 0.855rem;
 }
 
+a {
+    text-decoration: none;
+}
+
 div img {
     max-width: 100%;
     height: auto;
@@ -56,7 +60,6 @@ input {
 }
 
 .pa-form-buttons a {
-    text-decoration: none;
     padding: 10px 15px;
     margin-right: 10px;
     color: #66696d;
