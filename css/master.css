@@ -10,11 +10,13 @@
 }
 
 nav {
-    margin: 25px auto 0 auto;
+    margin: 20px auto 0 auto;
 }
 
 ul {
     list-style: none;
+    display: flex;
+    align-items: center;
 }
 
 li {
@@ -28,10 +30,11 @@ a {
     text-decoration: none;
 }
 
-div img {
+img {
     max-width: 100%;
     height: auto;
 }
+
 
 #pa-google-logo {
     width: 17%;
@@ -85,4 +88,13 @@ footer {
 footer a {
     color: #000;
     opacity: 0.75;
+}
+
+#navbar-profile-picture {
+    width: 32px;
+    height: 32px;
+    background-image: url("../images/tesla-roadster-red-electricity-cars-luxury-vehicle-18630.jpg");
+    background-size: cover;
+    border-radius: 50%;
+    background-position-x: center;
 }
