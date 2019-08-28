@@ -32,11 +32,21 @@ div img {
 }
 
 #pa-google-logo {
-    width: 15%;
+    width: 17%;
 }
 
 .form-container {
     flex-direction: column;
     margin: 200px auto;
     align-items: center;
+}
+
+input {
+    margin-top: 20px;
+    border: 1px solid grey;
+    border-radius: 30px;
+    width: 550px;
+    padding: 17px 15px;
+    outline: none;
+    font-size: 0.855rem;
 }
