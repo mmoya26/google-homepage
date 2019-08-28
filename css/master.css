@@ -50,3 +50,17 @@ input {
     outline: none;
     font-size: 0.855rem;
 }
+
+.pa-form-buttons {
+    margin-top: 25px;
+}
+
+.pa-form-buttons a {
+    text-decoration: none;
+    padding: 10px 15px;
+    margin-right: 10px;
+    color: #66696d;
+    background-color: #f3f3f3;
+    font-size: 0.855rem;
+    border-radius: 5px;
+}
